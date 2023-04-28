@@ -1,7 +1,7 @@
 # ¡Hola! 👋
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 60%;">
+<div style="display: flex;">
+  <div style="width: 50%; padding-right: 30px;">
     Soy Interructor11, un desarrollador de software apasionado por la tecnología y la innovación.
 
     ## Sobre mí 👨‍💻
@@ -11,8 +11,6 @@
     ## Gustos 😍
 
     Aparte de la programación, me gustan los perros 🐶, los helados 🍦 y los patinetes 🛴. Cuando no estoy frente a mi ordenador, puedes encontrarme paseando a mi perro, disfrutando de un delicioso helado o dando un paseo en patinete.
-    
-    ![perro_programador](https://programacion.net/files/article/20160427020412_lenguajes-raros.jpg)
 
     ## Proyectos Destacados 🚀
 
@@ -22,11 +20,10 @@
 
     ¡Gracias por visitar mi perfil de GitHub! 🙌
   </div>
-  <div style="width: 35%; text-align: center;">
+  <div style="width: 50%;">
     <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Gif de perro en la playa">
   </div>
 </div>
-
 
 
 
