@@ -6,6 +6,12 @@ Soy Interructor11, un desarrollador de software apasionado por la tecnología y 
 
 Soy un apasionado del mundo de la programación y he adquirido habilidades en diferentes lenguajes de programación como Java, Python y SQL. Me encanta resolver problemas complejos utilizando la tecnología y siempre estoy buscando maneras de mejorar mi código.
 
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+
 ## Gustos 😍
 
 Aparte de la programación, me gustan los perros 🐶, los helados 🍦 y los patinetes 🛴. Cuando no estoy frente a mi ordenador, puedes encontrarme paseando a mi perro, disfrutando de un delicioso helado o dando un paseo en patinete.
