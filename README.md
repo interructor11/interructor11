@@ -1,6 +1,6 @@
-# ¡Hola! 👋
+# ¡Hola! 👋 ![nono_programador](https://media.tenor.com/41I-iMyClCgAAAAM/programmer-programming.gif)
 
-Soy Interructor11, un desarrollador de software apasionado por la tecnología y la innovación. ![nono_programador](https://media.tenor.com/41I-iMyClCgAAAAM/programmer-programming.gif)
+Soy Interructor11, un desarrollador de software apasionado por la tecnología y la innovación. 
 
 ## Sobre mí 👨‍💻
 
