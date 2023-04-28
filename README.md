@@ -10,7 +10,7 @@ Soy un apasionado del mundo de la programación y he adquirido habilidades en di
 
 Aparte de la programación, me gustan los perros 🐶, los helados 🍦 y los patinetes 🛴. Cuando no estoy frente a mi ordenador, puedes encontrarme paseando a mi perro, disfrutando de un delicioso helado o dando un paseo en patinete.
 
-<div style="padding-top:92.235%;position:relative;"><iframe src="https://gifer.com/embed/2zAp" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div>
+![perro](https://i.gifer.com/2zAp.gif)
 
 ## Proyectos Destacados 🚀
 
