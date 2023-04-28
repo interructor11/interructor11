@@ -6,7 +6,7 @@ Soy Interructor11, un desarrollador de software apasionado por la tecnología y 
 
 Soy un apasionado del mundo de la programación y he adquirido habilidades en diferentes lenguajes de programación como Java, Python y SQL. Me encanta resolver problemas complejos utilizando la tecnología y siempre estoy buscando maneras de mejorar mi código.
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="javascript" src="https://static.vecteezy.com/system/resources/previews/017/396/822/non_2x/youtube-icon-social-media-apps-free-png.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
