@@ -1,45 +1,20 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hola, soy Alfredo Gonzalez. Estoy aprendiendo a usar GitHub ^^" src="./assets/gh-readme-header.png" /></a></p>
+# ¡Hola! 👋
 
-<br />
+Soy Interructor11, un desarrollador de software apasionado por la tecnología y la innovación.
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+## Sobre mí 👨‍💻
 
-**About me**
+Soy un apasionado del mundo de la programación y he adquirido habilidades en diferentes lenguajes de programación como Java, Python y SQL. Me encanta resolver problemas complejos utilizando la tecnología y siempre estoy buscando maneras de mejorar mi código.
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+## Gustos 😍
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+Aparte de la programación, me gustan los perros 🐶, los helados 🍦 y los patinetes 🛴. Cuando no estoy frente a mi ordenador, puedes encontrarme paseando a mi perro, disfrutando de un delicioso helado o dando un paseo en patinete.
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+## Proyectos Destacados 🚀
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- **Sistema de gestión de inventario:** Un sistema de gestión de inventario que permite a las empresas llevar un registro detallado de su inventario. Desarrollado en Java.
+- **Scraper de precios:** Una aplicación web que extrae los precios de productos de diferentes sitios web y los compara para encontrar la mejor oferta. Desarrollado en Python.
+- **Base de datos de clientes:** Una base de datos de clientes que almacena información de clientes para una empresa. Desarrollado en SQL.
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+¡Gracias por visitar mi perfil de GitHub! 🙌
 
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
