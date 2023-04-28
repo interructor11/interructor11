@@ -1,10 +1,10 @@
 # ¡Hola! 👋
 
-Soy Interructor11, un desarrollador de software apasionado por la tecnología y la innovación.
+Soy Interructor11, un desarrollador de software apasionado por la tecnología y la innovación. ![nono_programador](https://media.tenor.com/41I-iMyClCgAAAAM/programmer-programming.gif)
 
 ## Sobre mí 👨‍💻
 
-Soy un apasionado del mundo de la programación y he adquirido habilidades en diferentes lenguajes de programación como Java, Python y SQL. Me encanta resolver problemas complejos utilizando la tecnología y siempre estoy buscando maneras de mejorar mi código.
+Soy un apasionado del mundo de la programación y he adquirido habilidades en diferentes lenguajes de programación como Java, Python y SQL. Me encanta resolver problemas complejos utilizando la tecnología y siempre estoy buscando maneras de mejorar mi código (en verdad solo hago esto porque estamos dando github en clase, no os creais nada de lo que pone aquí xd).
 
 <code><img height="20" alt="javascript" src="https://static.vecteezy.com/system/resources/previews/017/396/822/non_2x/youtube-icon-social-media-apps-free-png.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -16,10 +16,7 @@ Soy un apasionado del mundo de la programación y he adquirido habilidades en di
 
 Aparte de la programación, me gustan los perros 🐶, los helados 🍦 y los patinetes 🛴. Cuando no estoy frente a mi ordenador, puedes encontrarme paseando a mi perro, disfrutando de un delicioso helado o dando un paseo en patinete.
 
-![perro](https://media.tenor.com/41I-iMyClCgAAAAM/programmer-programming.gif)
-
-https://programacion.net/files/article/20160427020412_lenguajes-raros.jpg
-https://i.gifer.com/2zAp.gif
+![perro_programador](https://programacion.net/files/article/20160427020412_lenguajes-raros.jpg)
 
 ## Proyectos Destacados 🚀
 
